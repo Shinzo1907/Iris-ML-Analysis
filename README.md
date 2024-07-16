@@ -1,6 +1,6 @@
 # Iris-ML-Analysis
 
-This repository contains a comprehensive analysis and modeling project based on the Iris dataset, with the aim of classifying the species of Iris flowers. The project leverages various machine learning techniques, including Linear Discriminant Analysis (LDA), Principal Component Analysis (PCA), and Logistic Regression (LR).
+This repository contains a comprehensive analysis and modeling project based on the Iris dataset, with the aim of classifying the species of Iris flowers. The project leverages various machine learning techniques, including Linear Discriminant Analysis (LDA) and Principal Component Analysis (PCA).
 
 ## Project Overview
 
@@ -16,7 +16,6 @@ The following tools and libraries are used in this project:
 - **Scikit-learn**: For machine learning tasks, including data preprocessing, model training, and model evaluation.
 - **Linear Discriminant Analysis (LDA)**: A powerful technique for projecting the dataset onto a lower-dimensional space with good class-separability.
 - **Principal Component Analysis (PCA)**: A technique for dimensionality reduction.
-- **Logistic Regression (LR)**: A statistical method for binary classification.
 
 ## Dataset
 
@@ -30,6 +29,5 @@ The dataset includes various features related to Iris flowers. Each row represen
 4. **Model Training**:
    - Linear Discriminant Analysis (LDA)
    - Principal Component Analysis (PCA)
-   - Logistic Regression (LR)
 5. **Model Evaluation**: Evaluating the models using various metrics such as accuracy, precision, recall, and confusion matrix.
 6. **Visualization of Results**: Visualizing the results to interpret the model performance.
